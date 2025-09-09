@@ -1,14 +1,14 @@
 {
-  "name": "european_parties_explorer",
+  "name": "european_parties_explorer_old",
   "version": "1.0.0",
   "description": "visual analytics system for exploring how European political parties have evolved",
   "main": "index.js",
   "author": "Stefano Bonetti",
   "license": "",
-  "homepage": "https://stes24.github.io/European-parties-explorer",
+  "homepage": "https://stes24.github.io/european-parties-explorer-old",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stes24/European-parties-explorer.git"
+    "url": "git+https://github.com/stes24/european-parties-explorer-old.git"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",

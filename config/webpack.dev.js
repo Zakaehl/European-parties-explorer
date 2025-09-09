@@ -12,7 +12,7 @@ module.exports = merge(common, {
   // Spin up a server for quick development
   devServer: {
     historyApiFallback: {
-      index: '/European-parties-explorer/'
+      index: '/european-parties-explorer-old/'
     },
     open: true,
     compress: true,
